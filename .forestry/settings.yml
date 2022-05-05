@@ -17,7 +17,7 @@ sections:
     create: documents
     match: "*.md"
     templates:
-      - page
+      - docs
   - type: directory
     path: blog
     label: Blog
