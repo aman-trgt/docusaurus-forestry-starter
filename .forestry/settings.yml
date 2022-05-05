@@ -10,6 +10,12 @@ sections:
   create: documents
   match: "*.md"
   templates:
+  - type: directory
+  path: docs/developer/
+  label: Developer Docs
+  create: documents
+  match: "*.md"
+  templates:
   - page
 - type: directory
   path: blog
