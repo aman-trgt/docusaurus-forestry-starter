@@ -13,7 +13,7 @@ sections:
       - page
   - type: directory
     path: docs/developer/
-    label: Docs
+    label: Dev Docs
     create: documents
     match: "*.md"
     templates:
